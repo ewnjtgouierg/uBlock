@@ -126,7 +126,7 @@ const onBeforeRequest = function(details) {
         }
     }
 
-    return { cancel: true };
+    // return { cancel: true };
 };
 
 /******************************************************************************/
